@@ -13,7 +13,7 @@ estao inicialmente na mesma altitude y = 0. (Este valor pode ser alterado neste 
 """
 
 def tests(): # Define o numero de estudos que o computador ira fazer.
-    return 1000 # Sinta-se livre para alterar conforme quiser!
+    return 200 # Sinta-se livre para alterar conforme quiser!
 
 def phys_env(): # Nota (1)
     return vector(0, 10, 0), vector(0, -9.7864, 0), 0.001
